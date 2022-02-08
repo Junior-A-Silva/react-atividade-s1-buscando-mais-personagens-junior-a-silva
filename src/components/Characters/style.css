@@ -1,0 +1,15 @@
+#characterContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  width: 1400px;
+}
+#list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+li {
+  list-style: none;
+}
